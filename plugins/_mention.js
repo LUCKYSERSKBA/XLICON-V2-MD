@@ -9,10 +9,10 @@
 let handler = m => m
 handler.all = async function (m, conn) {
     var vn = "https://cdn.ironman.my.id/q/DDEFR.mp4"
-    let url = "https://github.com/abrahamdw882"
-    let murl = "https://instagram.com/abraham.dwamena.182"
+    let url = "https://github.com/LUCKYSERSKBA/XLICON-V2"
+    let murl = "https://instagram.com/the____.red___eye"
     let hash = global.botname
-    let img = "https://avatars.githubusercontent.com/u/120536940?v=4"
+    let img = "https://files.catbox.moe/c4hu3g.jpeg"
     let num = ["233268374753"]
 
     let doc = {
